@@ -4,7 +4,7 @@ import "./index.css"
 function App() {
     return (
         <>
-        <h1 className="">Hello</h1>
+            <h1 className="bg-slate-500">Hello</h1>
         </>
     );
 }
