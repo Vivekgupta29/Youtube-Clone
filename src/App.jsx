@@ -1,10 +1,10 @@
-import "./index.css";
-import Maincomponent from "./components/Maincomponent";
+import Maincomponents from "./components/Maincomponents";
+import "./index.css"
 
 function App() {
     return (
         <>
-            <Maincomponent />
+        <h1 className="">Hello</h1>
         </>
     );
 }
